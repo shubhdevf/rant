@@ -1,0 +1,9 @@
+#aLine specific config file 
+devfactory:
+  version: 1
+  excludes:
+    - 'Tenrox/TenroxSoftware/Server/Framework/Domain/Entities/**'
+    - 'Tenrox/Tenrox.Desktop/TX-Mobile/TX-Mobile/CryptoHelper/Structs.cs'
+    - 'Tenrox/Tenrox.Desktop/TX-Mobile/TX-Mobile/CryptoHelper/GuiTools.cs'
+    - 'Tenrox/Install/Tenrox/InstallCommon/Core/SharedTasks.cs'
+    - 'Tenrox/Install/Tenrox/InstallCommon/Core/Unmanaged/Registry.cs'
